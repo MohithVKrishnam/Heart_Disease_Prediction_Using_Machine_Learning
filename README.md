@@ -65,11 +65,17 @@ Note: The dataset used appears to be a version of the Cleveland Heart Disease Da
 
 # Libraries Required
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
+
 scikit-learn
-Results
+
+
+# Results
 Among the tested models, RandomForestClassifier showed the best performance on the dataset with the highest accuracy and reliable ROC-AUC score.
 
 # Future Scope
